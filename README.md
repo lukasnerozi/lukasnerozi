@@ -2,10 +2,11 @@
 
 
 - 😄 Meu nome é Lukas 👋
-- 🔭 Estou me especialiando em Front-End e Design Ui & Ux
-- 🌱 Conhecimentos em andamento -> Next.js, Js, LProgramção(JAVA/ C#)
+- 🔭 Estou me especializando em Front-End e Design Ui & Ux
+- 🌱 Conhecimentos em andamento -> React.js, Js, LProgramção(JAVA/ C#)
 - 👯 Trabalhos feitos: Canta Galo chalés. 
 - 🤔 Trabalhando no meu portfólio: Artificium(InProgress), AirSoft(InProgress).
+- 🚀 BeHance: https://www.behance.net/lukasnerozi
 
 
 <div align="center" >
