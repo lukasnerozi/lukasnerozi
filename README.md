@@ -7,6 +7,7 @@
 - 👯 Trabalhos feitos: Canta Galo chalés. 
 - 🤔 Trabalhando no meu portfólio: Artificium(InProgress), AirSoft(InProgress).
 - 🚀 BeHance: https://www.behance.net/lukasnerozi
+- 🚀 LinkedIn: https://www.linkedin.com/in/lukas-nerozi-651443218/
 
 
 <div align="center" >
