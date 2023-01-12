@@ -10,16 +10,7 @@
 - 🚀 LinkedIn: https://www.linkedin.com/in/lukas-nerozi-651443218/
 
 
-<div align="center" >
-    <h2>Stats</h2>
-</div>
 
-
-<div align="center">
-  <a href="https://github.com/gragolha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gragolha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gragolha&layout=compact&langs_count=16&theme=dark"/>
-</div>
 
 <div align="center" >
     <h2>Habilidades</h2>
