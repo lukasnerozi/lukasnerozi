@@ -3,7 +3,7 @@
 
 - 😄 Meu nome é Lukas 👋
 - 🔭 Estou me especializando em Front-End e Design Ui & Ux
-- 🌱 Conhecimentos em andamento -> React.js, Js, LProgramção(JAVA/ C#)
+- 🌱 Conhecimentos em andamento -> React.js, Js, php...
 - 👯 Trabalhos feitos: Canta Galo chalés. 
 - 🤔 Trabalhando no meu portfólio: Artificium(InProgress), AirSoft(InProgress).
 - 🚀 Basic - https://basicbook.vercel.app
