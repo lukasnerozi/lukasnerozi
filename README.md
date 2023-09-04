@@ -5,7 +5,7 @@
 - 🔭 Estou me especializando em Front-End e Design Ui & Ux
 - 🌱 Conhecimentos em andamento -> React.js, Js, php...
 - 👯 Trabalhos feitos: Canta Galo chalés. 
-- 🤔 Trabalhando no meu portfólio: Artificium(InProgress), AirSoft(InProgress).
+- 🤔 Trabalhando no meu portfólio: BasicBook
 - 🚀 Basic - https://basicbook.vercel.app
 - 🚀 BeHance: https://www.behance.net/lukasnerozi
 - 🚀 LinkedIn: https://www.linkedin.com/in/lukas-nerozi-651443218/
