@@ -5,7 +5,7 @@
 - 🔭 Estou me especializando em Front-End e Design Ui & Ux
 - 🌱 Conhecimentos em andamento -> React.js, Js, php...
 - 👯 Trabalhos feitos: Canta Galo chalés. 
-- 🤔 Trabalhando no meu portfólio: Noisemakers - https://playmusic-gragolha.vercel.app/
+- 🤔 Trabalhando no meu portfólio: [Noisemakers](https://noisemakers-lukas.vercel.app/) / HTML, Js e CSS.
 - 🚀 LinkedIn: https://www.linkedin.com/in/lukas-nerozi-651443218/
 
 
