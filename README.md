@@ -5,11 +5,8 @@
 - 🔭 Estou me especializando em Front-End e Design Ui & Ux
 - 🌱 Conhecimentos em andamento -> React.js, Js, php...
 - 👯 Trabalhos feitos: Canta Galo chalés. 
-- 🤔 Trabalhando no meu portfólio: BasicBook
-- 🚀 Basic - https://basicbook.vercel.app
-- 🚀 BeHance: https://www.behance.net/lukasnerozi
+- 🤔 Trabalhando no meu portfólio: Noisemakers - https://playmusic-gragolha.vercel.app/
 - 🚀 LinkedIn: https://www.linkedin.com/in/lukas-nerozi-651443218/
-- 🚀 LND - Portfolio pessoal : https://lnd-pi.vercel.app
 
 
 
