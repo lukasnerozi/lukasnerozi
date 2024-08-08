@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-    <img alt="PHP" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
+    <img title="PHP" alt="PHP" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
     <img alt="Laravel" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Laravel.svg">
     <img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
     <img alt="NodeJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
