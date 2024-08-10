@@ -1,5 +1,5 @@
 - 😄 My name is Lukas 👋
-- 👨🏻‍💻 Currently working as a Web Developer at Thompson Management Horizons.
+- 👨🏻‍💻 Currently working as a Web Developer Junior I at Thompson Management Horizons.
 - 🌱 Currently learning -> PHP, Laravel, VueJS...
 - 👯 Completed projects: Canta Galo Chalés.
 - 🤔 Working on my portfolio: [Noisemakers](https://noisemakers-lukas.vercel.app/) / HTML, JS, and CSS.
